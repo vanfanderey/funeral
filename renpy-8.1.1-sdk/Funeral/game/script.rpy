@@ -23,7 +23,7 @@ label start:
 
     # These display lines of dialogue.
 
-    e "..."
+    e "Pies mi twarz lizał"
 
     e "..."
     
