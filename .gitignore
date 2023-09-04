@@ -1,0 +1,17 @@
+
+renpy-8.1.1-sdk/doc/
+renpy-8.1.1-sdk/gui/
+renpy-8.1.1-sdk/launcher/
+renpy-8.1.1-sdk/lib/
+renpy-8.1.1-sdk/LICENSE.txt
+renpy-8.1.1-sdk/log.txt
+renpy-8.1.1-sdk/module/
+renpy-8.1.1-sdk/renpy.exe
+renpy-8.1.1-sdk/renpy.py
+renpy-8.1.1-sdk/renpy.sh
+renpy-8.1.1-sdk/renpy/
+renpy-8.1.1-sdk/sdk-fonts/
+renpy-8.1.1-sdk/tmp
+renpy-8.1.1-sdk/update/
+renpy-8.1.1-sdk/vscode/
+renpy-8.1.1-sdk/renpy.app/

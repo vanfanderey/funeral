@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/options.rpy", line 21: expected statement.
+    _name = True
+          ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Mon Jul 10 22:41:04 2023
