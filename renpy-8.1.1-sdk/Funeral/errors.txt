@@ -2,9 +2,21 @@
 errors listed below, and try again.
 
 
-File "game/options.rpy", line 21: expected statement.
-    _name = True
-          ^
+File "game/script.rpy", line 15: choice menuitem expects a non-empty block.
+    "I think another mass might have just started. I hope I'm not too late to catch the ceremony":
+                                                                                                  ^
+
+File "game/script.rpy", line 23: choice menuitem expects a non-empty block.
+    "The ceremony is still going on, which is good, but I'll have to hurry if I want to make it in time. Not sure how quickly I'll find them.":
+                                                                                                                                               ^
+
+File "game/script.rpy", line 26: choice menuitem expects a non-empty block.
+    "(pass through the gate)":
+                              ^
+
+File "game/script.rpy", line 34: choice menuitem expects a non-empty block.
+    "(continue)":
+                 ^
 
 Ren'Py Version: Ren'Py 8.1.1.23060707
-Mon Jul 10 22:41:04 2023
+Wed Sep 13 09:39:34 2023
